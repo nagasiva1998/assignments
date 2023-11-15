@@ -1,0 +1,19 @@
+a=30
+b=40
+print("a>b :",a>b)
+print("a<b :",a<b)
+print("a<=b :",a<=b)
+print("a>=b :",a>=b)
+
+c="siva"
+d="Siva"
+print("c>d :",c>d)
+print("c<d :",c<d)
+print("c<=d :",c<=d)
+print("c>=d :",c>=d)
+print(c==d)
+print(c!=d)
+
+a=4
+a|=5
+print(a)
